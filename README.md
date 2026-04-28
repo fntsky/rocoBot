@@ -20,25 +20,9 @@ uv sync
 
 参考 [NapCat 文档](https://napneko.github.io/) 安装并配置 NapCat。
 
-确保开启以下服务：
-- **HTTP 服务**：端口 3000
-- **WebSocket 正向连接**：端口 3000（与 HTTP 同端口）
-
-配置文件示例（`napcat/config/onebot11_<QQ号>.json`）：
-```json
-{
-  "http": {
-    "enable": true,
-    "host": "0.0.0.0",
-    "port": 3000
-  },
-  "ws": {
-    "enable": true,
-    "host": "0.0.0.0",
-    "port": 3000
-  }
-}
-```
+确保开启以下服务（端口 3000）：
+- HTTP 服务
+- WebSocket 正向连接
 
 ### 3. 配置
 
