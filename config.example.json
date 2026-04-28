@@ -1,0 +1,6 @@
+{
+    "group_id": 123456789,
+    "api_port": 3000,
+    "server_port": 8080,
+    "shop_url": "https://www.onebiji.com/hykb_tools/comm/lkwgmerchant/preview.php?id=1"
+}

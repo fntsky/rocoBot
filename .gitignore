@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# 配置文件 (包含敏感信息)
+config.json
+config.py
+
+# go-cqhttp 相关
+data/
+logs/
+*.log
+*.db
+session.token
+device.json
+
+# NapCat 相关
+napcat_files/
+
+# 临时文件
+roco.tar.gz
+
+# 文档
+SPEC.md
+PLAN.md
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
