@@ -6,7 +6,6 @@ __pycache__/
 
 # 配置文件 (包含敏感信息)
 config.json
-config.py
 
 # go-cqhttp 相关
 data/
