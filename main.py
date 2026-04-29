@@ -55,6 +55,15 @@ bot = OneBotAPI(API_URL)
 self_qq = None  # 机器人QQ号
 
 
+def get_help_message() -> str:
+    """获取帮助消息"""
+    return """📖 命令帮助
+
+@机器人 远行商人 - 查询当前远行商人商店
+@机器人 <身高> <体重> - 预测精灵蛋孵化结果（如 @机器人 0.6 4）
+#更新精灵数据 - 更新精灵数据库"""
+
+
 def get_shop_message() -> str:
     """获取商店消息"""
     if not is_merchant_active():
@@ -119,7 +128,13 @@ def handle_group_message(data: dict):
 
     text_content = text_content.strip()
 
-    # 判断是否触发指令
+    # 帮助指令
+    if is_at_bot and ("help" in text_content.lower() or "帮助" in text_content):
+        print(f"[消息] 用户 {user_id} 在群 {group_id} 查询帮助")
+        text = get_help_message()
+        bot.send_group_message(group_id, text)
+
+    # 远行商人指令
     if is_at_bot and "远行商人" in text_content:
         print(f"[消息] 用户 {user_id} 在群 {group_id} 触发远行商人指令")
         text = get_shop_message()
@@ -165,15 +180,6 @@ def check_and_push():
         if hour == h and minute == m:
             push_shop_info()
             return
-
-    # 启动时也推送一次
-    if not hasattr(check_and_push, 'started'):
-        check_and_push.started = True
-        if is_merchant_active():
-            print("[启动] 推送初始商店信息")
-            push_shop_info()
-        else:
-            print("[启动] 当前无远行商人，跳过推送")
 
 
 async def websocket_client():
@@ -224,9 +230,6 @@ def main():
         print(f"[连接] 已连接，机器人QQ: {login_info.get('user_id')}, 昵称: {login_info.get('nickname')}")
     else:
         print("[警告] 无法连接到 NapCat API，请确认 NapCat 已启动")
-
-    # 启动时推送一次
-    check_and_push()
 
     # 启动 WebSocket 客户端（在后台线程）
     ws_thread = threading.Thread(target=run_websocket, daemon=True)
