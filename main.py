@@ -10,6 +10,7 @@ import websockets
 from scraper import fetch_shop_items, is_merchant_active
 from formatter import format_shop_message
 from config import GROUP_ID, API_URL, WS_URL, SHOP_URL
+from sprite_data import predict_sprites, format_prediction_message, update_sprite_data, load_sprites
 
 
 class OneBotAPI:
@@ -124,6 +125,32 @@ def handle_group_message(data: dict):
         text = get_shop_message()
         bot.send_group_message(group_id, text)
 
+    # 精灵蛋预测指令：@机器人 身高 体重
+    if is_at_bot:
+        # 解析身高体重数字
+        import re
+        numbers = re.findall(r"[\d.]+", text_content)
+        if len(numbers) >= 2:
+            try:
+                height = float(numbers[0])
+                weight = float(numbers[1])
+                print(f"[消息] 用户 {user_id} 查询精灵蛋: {height}m {weight}kg")
+                sprites = predict_sprites(height, weight)
+                text = format_prediction_message(sprites, height, weight)
+                bot.send_group_message(group_id, text)
+            except ValueError:
+                pass  # 不是有效数字，忽略
+
+    # 更新精灵数据指令
+    if "#更新精灵数据" in text_content or "#更新精灵" in text_content:
+        print(f"[消息] 用户 {user_id} 触发更新精灵数据")
+        success = update_sprite_data()
+        if success:
+            sprites = load_sprites()
+            bot.send_group_message(group_id, f"精灵数据已更新，共 {len(sprites)} 个精灵")
+        else:
+            bot.send_group_message(group_id, "精灵数据更新失败，请稍后重试")
+
 
 def check_and_push():
     """定时检查并推送"""
@@ -183,6 +210,13 @@ def main():
     print(f"[配置] API地址: {API_URL}")
     print(f"[配置] WebSocket: {WS_URL}")
     print(f"[配置] 商店URL: {SHOP_URL}")
+
+    # 检查精灵数据
+    sprites = load_sprites()
+    if sprites:
+        print(f"[数据] 已加载 {len(sprites)} 个精灵数据")
+    else:
+        print("[数据] 精灵数据为空，首次查询时将自动爬取")
 
     # 检查连接
     login_info = bot.get_login_info()

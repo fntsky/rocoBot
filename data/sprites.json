@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "喵喵",
+    "height_min": 0.53,
+    "height_max": 0.75,
+    "weight_min": 3.62,
+    "weight_max": 4.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%96%B5%E5%96%B5"
+  },
+  {
+    "name": "水蓝蓝",
+    "height_min": 0.45,
+    "height_max": 0.65,
+    "weight_min": 2.85,
+    "weight_max": 4.205,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B0%B4%E8%93%9D%E8%93%9D"
+  },
+  {
+    "name": "火花",
+    "height_min": 0.53,
+    "height_max": 0.71,
+    "weight_min": 7.6,
+    "weight_max": 8.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%81%AB%E8%8A%B1"
+  },
+  {
+    "name": "草头鸭",
+    "height_min": 0.5,
+    "height_max": 0.72,
+    "weight_min": 4.9,
+    "weight_max": 6.57,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%8D%89%E5%A4%B4%E9%B8%AD"
+  },
+  {
+    "name": "恶魔叮",
+    "height_min": 0.39,
+    "height_max": 0.56,
+    "weight_min": 3.6,
+    "weight_max": 5.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%81%B6%E9%AD%94%E5%8F%AE"
+  },
+  {
+    "name": "恶魔狼",
+    "height_min": 1.23,
+    "height_max": 1.76,
+    "weight_min": 74.0,
+    "weight_max": 92.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%81%B6%E9%AD%94%E7%8B%BC"
+  },
+  {
+    "name": "阿米亚特",
+    "height_min": 0.57,
+    "height_max": 0.79,
+    "weight_min": 38.5,
+    "weight_max": 49.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%98%BF%E7%B1%B3%E4%BA%9A%E7%89%B9"
+  },
+  {
+    "name": "绿草精灵",
+    "height_min": 0.71,
+    "height_max": 1.01,
+    "weight_min": 9.3,
+    "weight_max": 10.3,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%BB%BF%E8%8D%89%E7%B2%BE%E7%81%B5"
+  },
+  {
+    "name": "奇丽草",
+    "height_min": 0.38,
+    "height_max": 0.55,
+    "weight_min": 4.1,
+    "weight_max": 5.7,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A5%87%E4%B8%BD%E8%8D%89"
+  },
+  {
+    "name": "蒲公英",
+    "height_min": 0.3,
+    "height_max": 0.5,
+    "weight_min": 0.1,
+    "weight_max": 0.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%92%B2%E5%85%AC%E8%8B%B1"
+  },
+  {
+    "name": "小甲虫",
+    "height_min": 0.48,
+    "height_max": 0.68,
+    "weight_min": 6.5,
+    "weight_max": 8.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%94%B2%E8%99%AB"
+  },
+  {
+    "name": "伊贝儿",
+    "height_min": 0.44,
+    "height_max": 0.62,
+    "weight_min": 3.3,
+    "weight_max": 4.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%BC%8A%E8%B4%9D%E5%84%BF"
+  },
+  {
+    "name": "锥尾羊",
+    "height_min": 0.57,
+    "height_max": 0.81,
+    "weight_min": 13.3,
+    "weight_max": 16.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%94%A5%E5%B0%BE%E7%BE%8A"
+  },
+  {
+    "name": "白发懒人",
+    "height_min": 0.72,
+    "height_max": 1.03,
+    "weight_min": 19.5,
+    "weight_max": 23.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%99%BD%E5%8F%91%E6%87%92%E4%BA%BA"
+  },
+  {
+    "name": "记忆石",
+    "height_min": 0.97,
+    "height_max": 1.39,
+    "weight_min": 90.2,
+    "weight_max": 112.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%AE%B0%E5%BF%86%E7%9F%B3"
+  },
+  {
+    "name": "一窝蜂",
+    "height_min": 0.37,
+    "height_max": 0.52,
+    "weight_min": 4.0,
+    "weight_max": 5.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%B8%80%E7%AA%9D%E8%9C%82"
+  },
+  {
+    "name": "小灵面",
+    "height_min": 0.38,
+    "height_max": 0.55,
+    "weight_min": 0.1,
+    "weight_max": 0.55,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%81%B5%E9%9D%A2"
+  },
+  {
+    "name": "小独角兽",
+    "height_min": 0.98,
+    "height_max": 1.41,
+    "weight_min": 41.5,
+    "weight_max": 55.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%8B%AC%E8%A7%92%E5%85%BD"
+  },
+  {
+    "name": "幽影树",
+    "height_min": 0.64,
+    "height_max": 0.92,
+    "weight_min": 29.5,
+    "weight_max": 37.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B9%BD%E5%BD%B1%E6%A0%91"
+  },
+  {
+    "name": "忽幽狸",
+    "height_min": 0.76,
+    "height_max": 1.09,
+    "weight_min": 8.3,
+    "weight_max": 9.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%BF%BD%E5%B9%BD%E7%8B%B8"
+  },
+  {
+    "name": "锤头鹳",
+    "height_min": 1.09,
+    "height_max": 1.56,
+    "weight_min": 51.3,
+    "weight_max": 65.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%94%A4%E5%A4%B4%E9%B9%B3"
+  },
+  {
+    "name": "护主犬",
+    "height_min": 0.64,
+    "height_max": 0.92,
+    "weight_min": 13.6,
+    "weight_max": 17.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%8A%A4%E4%B8%BB%E7%8A%AC"
+  },
+  {
+    "name": "格兰种子",
+    "height_min": 0.4,
+    "height_max": 0.57,
+    "weight_min": 3.5,
+    "weight_max": 5.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%A0%BC%E5%85%B0%E7%A7%8D%E5%AD%90"
+  },
+  {
+    "name": "灵狐",
+    "height_min": 0.56,
+    "height_max": 0.8,
+    "weight_min": 7.4,
+    "weight_max": 8.9,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%81%B5%E7%8B%90"
+  },
+  {
+    "name": "治愈兔",
+    "height_min": 0.57,
+    "height_max": 0.82,
+    "weight_min": 12.03,
+    "weight_max": 14.42,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B2%BB%E6%84%88%E5%85%94"
+  },
+  {
+    "name": "可爱猿",
+    "height_min": 0.69,
+    "height_max": 0.98,
+    "weight_min": 21.0,
+    "weight_max": 31.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%8F%AF%E7%88%B1%E7%8C%BF"
+  },
+  {
+    "name": "可立鸡",
+    "height_min": 0.39,
+    "height_max": 0.56,
+    "weight_min": 4.6,
+    "weight_max": 7.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%8F%AF%E7%AB%8B%E9%B8%A1"
+  },
+  {
+    "name": "火尾瓦特",
+    "height_min": 0.64,
+    "height_max": 0.92,
+    "weight_min": 18.5,
+    "weight_max": 21.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%81%AB%E5%B0%BE%E7%93%A6%E7%89%B9"
+  },
+  {
+    "name": "呆小路",
+    "height_min": 0.58,
+    "height_max": 0.83,
+    "weight_min": 4.5,
+    "weight_max": 5.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%91%86%E5%B0%8F%E8%B7%AF"
+  },
+  {
+    "name": "绿耳松鼠",
+    "height_min": 0.47,
+    "height_max": 0.68,
+    "weight_min": 3.5,
+    "weight_max": 6.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%BB%BF%E8%80%B3%E6%9D%BE%E9%BC%A0"
+  },
+  {
+    "name": "布是石",
+    "height_min": 0.42,
+    "height_max": 0.6,
+    "weight_min": 18.5,
+    "weight_max": 32.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B8%83%E6%98%AF%E7%9F%B3"
+  },
+  {
+    "name": "仪使者",
+    "height_min": 0.45,
+    "height_max": 0.58,
+    "weight_min": 19.05,
+    "weight_max": 35.05,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%BB%AA%E4%BD%BF%E8%80%85"
+  },
+  {
+    "name": "甜田螺",
+    "height_min": 0.41,
+    "height_max": 0.58,
+    "weight_min": 7.5,
+    "weight_max": 9.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%94%9C%E7%94%B0%E8%9E%BA"
+  },
+  {
+    "name": "风铃鲨",
+    "height_min": 0.41,
+    "height_max": 0.59,
+    "weight_min": 13.07,
+    "weight_max": 16.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%A3%8E%E9%93%83%E9%B2%A8"
+  },
+  {
+    "name": "果冻",
+    "height_min": 0.3,
+    "height_max": 0.36,
+    "weight_min": 4.35,
+    "weight_max": 5.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%9E%9C%E5%86%BB"
+  },
+  {
+    "name": "大耳帽兜",
+    "height_min": 0.39,
+    "height_max": 0.42,
+    "weight_min": 8.39,
+    "weight_max": 10.7,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A4%A7%E8%80%B3%E5%B8%BD%E5%85%9C"
+  },
+  {
+    "name": "脆筒甜甜",
+    "height_min": 0.3,
+    "height_max": 0.4,
+    "weight_min": 1.8,
+    "weight_max": 3.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%84%86%E7%AD%92%E7%94%9C%E7%94%9C"
+  },
+  {
+    "name": "圆眼蜘蛛",
+    "height_min": 0.48,
+    "height_max": 0.68,
+    "weight_min": 3.5,
+    "weight_max": 5.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%9C%86%E7%9C%BC%E8%9C%98%E8%9B%9B"
+  },
+  {
+    "name": "毛毛",
+    "height_min": 0.31,
+    "height_max": 0.45,
+    "weight_min": 3.0,
+    "weight_max": 4.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%AF%9B%E6%AF%9B"
+  },
+  {
+    "name": "小草虫",
+    "height_min": 0.47,
+    "height_max": 0.67,
+    "weight_min": 2.1,
+    "weight_max": 3.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E8%8D%89%E8%99%AB"
+  },
+  {
+    "name": "小夜",
+    "height_min": 0.51,
+    "height_max": 0.73,
+    "weight_min": 4.5,
+    "weight_max": 7.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E5%A4%9C"
+  },
+  {
+    "name": "小灵菇",
+    "height_min": 0.43,
+    "height_max": 0.61,
+    "weight_min": 5.4,
+    "weight_max": 7.1,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%81%B5%E8%8F%87"
+  },
+  {
+    "name": "空空颅",
+    "height_min": 0.43,
+    "height_max": 0.61,
+    "weight_min": 5.6,
+    "weight_max": 8.7,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%A9%BA%E7%A9%BA%E9%A2%85"
+  },
+  {
+    "name": "多多",
+    "height_min": 0.45,
+    "height_max": 0.65,
+    "weight_min": 14.6,
+    "weight_max": 18.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A4%9A%E5%A4%9A"
+  },
+  {
+    "name": "裘洛",
+    "height_min": 0.7,
+    "height_max": 1.0,
+    "weight_min": 7.5,
+    "weight_max": 12.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%A3%98%E6%B4%9B"
+  },
+  {
+    "name": "伏地兽",
+    "height_min": 0.52,
+    "height_max": 0.74,
+    "weight_min": 12.4,
+    "weight_max": 15.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%BC%8F%E5%9C%B0%E5%85%BD"
+  },
+  {
+    "name": "石石",
+    "height_min": 0.35,
+    "height_max": 0.5,
+    "weight_min": 61.0,
+    "weight_max": 75.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%9F%B3%E7%9F%B3"
+  },
+  {
+    "name": "雪豆丁",
+    "height_min": 0.86,
+    "height_max": 1.23,
+    "weight_min": 9.5,
+    "weight_max": 12.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%9B%AA%E8%B1%86%E4%B8%81"
+  },
+  {
+    "name": "咔咔羽毛",
+    "height_min": 0.62,
+    "height_max": 0.89,
+    "weight_min": 2.62,
+    "weight_max": 3.9,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%92%94%E5%92%94%E7%BE%BD%E6%AF%9B"
+  },
+  {
+    "name": "矮脚爬爬",
+    "height_min": 0.28,
+    "height_max": 0.44,
+    "weight_min": 3.3,
+    "weight_max": 4.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%9F%AE%E8%84%9A%E7%88%AC%E7%88%AC"
+  },
+  {
+    "name": "小帕尔",
+    "height_min": 0.64,
+    "height_max": 0.92,
+    "weight_min": 9.4,
+    "weight_max": 13.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E5%B8%95%E5%B0%94"
+  },
+  {
+    "name": "拉特",
+    "height_min": 0.49,
+    "height_max": 0.61,
+    "weight_min": 7.7,
+    "weight_max": 8.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%8B%89%E7%89%B9"
+  },
+  {
+    "name": "电咩咩",
+    "height_min": 0.58,
+    "height_max": 0.83,
+    "weight_min": 7.17,
+    "weight_max": 9.1,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%94%B5%E5%92%A9%E5%92%A9"
+  },
+  {
+    "name": "闪电环",
+    "height_min": 0.37,
+    "height_max": 0.46,
+    "weight_min": 2.4,
+    "weight_max": 3.1,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%97%AA%E7%94%B5%E7%8E%AF"
+  },
+  {
+    "name": "粉粉星",
+    "height_min": 0.53,
+    "height_max": 0.76,
+    "weight_min": 2.1,
+    "weight_max": 3.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%B2%89%E7%B2%89%E6%98%9F"
+  },
+  {
+    "name": "机械方方",
+    "height_min": 0.42,
+    "height_max": 0.6,
+    "weight_min": 8.0,
+    "weight_max": 11.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%9C%BA%E6%A2%B0%E6%96%B9%E6%96%B9"
+  },
+  {
+    "name": "贝瑟",
+    "height_min": 0.57,
+    "height_max": 0.82,
+    "weight_min": 24.5,
+    "weight_max": 34.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%B4%9D%E7%91%9F"
+  },
+  {
+    "name": "多西",
+    "height_min": 0.65,
+    "height_max": 0.94,
+    "weight_min": 5.7,
+    "weight_max": 7.1,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A4%9A%E8%A5%BF"
+  },
+  {
+    "name": "小翼龙",
+    "height_min": 0.61,
+    "height_max": 0.87,
+    "weight_min": 25.1,
+    "weight_max": 36.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%BF%BC%E9%BE%99"
+  },
+  {
+    "name": "海豹战士",
+    "height_min": 0.64,
+    "height_max": 0.92,
+    "weight_min": 69.5,
+    "weight_max": 87.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B5%B7%E8%B1%B9%E6%88%98%E5%A3%AB"
+  },
+  {
+    "name": "菊花梨",
+    "height_min": 0.63,
+    "height_max": 0.9,
+    "weight_min": 4.2,
+    "weight_max": 5.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%8F%8A%E8%8A%B1%E6%A2%A8"
+  },
+  {
+    "name": "小怂猫",
+    "height_min": 0.59,
+    "height_max": 0.84,
+    "weight_min": 19.6,
+    "weight_max": 22.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E6%80%82%E7%8C%AB"
+  },
+  {
+    "name": "哭哭菇",
+    "height_min": 0.33,
+    "height_max": 0.47,
+    "weight_min": 1.8,
+    "weight_max": 3.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%93%AD%E5%93%AD%E8%8F%87"
+  },
+  {
+    "name": "绒绒",
+    "height_min": 0.29,
+    "height_max": 0.35,
+    "weight_min": 1.0,
+    "weight_max": 2.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%BB%92%E7%BB%92"
+  },
+  {
+    "name": "小鹬",
+    "height_min": 0.25,
+    "height_max": 0.36,
+    "weight_min": 1.4,
+    "weight_max": 2.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E9%B9%AC"
+  },
+  {
+    "name": "奔波鼠",
+    "height_min": 0.46,
+    "height_max": 0.6,
+    "weight_min": 3.71,
+    "weight_max": 6.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A5%94%E6%B3%A2%E9%BC%A0"
+  },
+  {
+    "name": "布鲁斯",
+    "height_min": 0.53,
+    "height_max": 0.76,
+    "weight_min": 2.4,
+    "weight_max": 4.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B8%83%E9%B2%81%E6%96%AF"
+  },
+  {
+    "name": "呼呼猪",
+    "height_min": 0.52,
+    "height_max": 0.75,
+    "weight_min": 6.8,
+    "weight_max": 8.9,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%91%BC%E5%91%BC%E7%8C%AA"
+  },
+  {
+    "name": "胆小鳗鱼",
+    "height_min": 0.74,
+    "height_max": 1.07,
+    "weight_min": 17.5,
+    "weight_max": 26.85,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%83%86%E5%B0%8F%E9%B3%97%E9%B1%BC"
+  },
+  {
+    "name": "大头骨龙",
+    "height_min": 0.85,
+    "height_max": 1.0,
+    "weight_min": 18.6,
+    "weight_max": 33.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A4%A7%E5%A4%B4%E9%AA%A8%E9%BE%99"
+  },
+  {
+    "name": "绿翼鸟",
+    "height_min": 0.49,
+    "height_max": 0.61,
+    "weight_min": 3.6,
+    "weight_max": 4.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%BB%BF%E7%BF%BC%E9%B8%9F"
+  },
+  {
+    "name": "矿晶虫",
+    "height_min": 0.54,
+    "height_max": 0.77,
+    "weight_min": 5.8,
+    "weight_max": 10.53,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%9F%BF%E6%99%B6%E8%99%AB"
+  },
+  {
+    "name": "犀角鸟",
+    "height_min": 0.32,
+    "height_max": 0.4,
+    "weight_min": 9.6,
+    "weight_max": 11.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%8A%80%E8%A7%92%E9%B8%9F"
+  },
+  {
+    "name": "小鼠獭",
+    "height_min": 0.37,
+    "height_max": 0.53,
+    "weight_min": 6.7,
+    "weight_max": 7.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E9%BC%A0%E7%8D%AD"
+  },
+  {
+    "name": "粉星仔",
+    "height_min": 0.39,
+    "height_max": 0.5,
+    "weight_min": 9.8,
+    "weight_max": 12.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%B2%89%E6%98%9F%E4%BB%94"
+  },
+  {
+    "name": "雪娃娃",
+    "height_min": 0.29,
+    "height_max": 0.42,
+    "weight_min": 6.8,
+    "weight_max": 8.16,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%9B%AA%E5%A8%83%E5%A8%83"
+  },
+  {
+    "name": "乖乖鹄",
+    "height_min": 0.46,
+    "height_max": 0.67,
+    "weight_min": 4.2,
+    "weight_max": 5.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%B9%96%E4%B9%96%E9%B9%84"
+  },
+  {
+    "name": "电动长颈鹿",
+    "height_min": 0.7,
+    "height_max": 1.0,
+    "weight_min": 29.8,
+    "weight_max": 36.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%94%B5%E5%8A%A8%E9%95%BF%E9%A2%88%E9%B9%BF"
+  },
+  {
+    "name": "嘟嘟煲",
+    "height_min": 0.65,
+    "height_max": 0.8,
+    "weight_min": 48.5,
+    "weight_max": 56.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%98%9F%E5%98%9F%E7%85%B2"
+  },
+  {
+    "name": "逗逗",
+    "height_min": 0.3,
+    "height_max": 0.4,
+    "weight_min": 0.45,
+    "weight_max": 1.53,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%80%97%E9%80%97"
+  },
+  {
+    "name": "菇菇丁",
+    "height_min": 0.25,
+    "height_max": 0.35,
+    "weight_min": 1.1,
+    "weight_max": 2.76,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%8F%87%E8%8F%87%E4%B8%81"
+  },
+  {
+    "name": "深蓝鲸",
+    "height_min": 2.0,
+    "height_max": 2.65,
+    "weight_min": 645.0,
+    "weight_max": 700.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B7%B1%E8%93%9D%E9%B2%B8"
+  },
+  {
+    "name": "双灯鱼",
+    "height_min": 0.5,
+    "height_max": 0.72,
+    "weight_min": 14.9,
+    "weight_max": 17.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%8F%8C%E7%81%AF%E9%B1%BC"
+  },
+  {
+    "name": "豆丁鱼",
+    "height_min": 0.31,
+    "height_max": 0.44,
+    "weight_min": 1.2,
+    "weight_max": 3.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%B1%86%E4%B8%81%E9%B1%BC"
+  },
+  {
+    "name": "里奥",
+    "height_min": 0.35,
+    "height_max": 0.45,
+    "weight_min": 4.8,
+    "weight_max": 5.9,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%87%8C%E5%A5%A5"
+  },
+  {
+    "name": "星尘虫",
+    "height_min": 0.15,
+    "height_max": 0.2,
+    "weight_min": 0.45,
+    "weight_max": 1.4,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%98%9F%E5%B0%98%E8%99%AB"
+  },
+  {
+    "name": "缇塔",
+    "height_min": 0.65,
+    "height_max": 0.75,
+    "weight_min": 38.2,
+    "weight_max": 45.2,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%BC%87%E5%A1%94"
+  },
+  {
+    "name": "权杖-Ⅱ",
+    "height_min": 0.45,
+    "height_max": 0.55,
+    "weight_min": 28.5,
+    "weight_max": 35.7,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%9D%83%E6%9D%96-%E2%85%A1"
+  },
+  {
+    "name": "厉毒小萝",
+    "height_min": 0.55,
+    "height_max": 0.65,
+    "weight_min": 8.73,
+    "weight_max": 14.92,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%8E%89%E6%AF%92%E5%B0%8F%E8%90%9D"
+  },
+  {
+    "name": "海枝枝（碧蓝珊瑚）",
+    "height_min": 0.75,
+    "height_max": 0.85,
+    "weight_min": 3.51,
+    "weight_max": 6.82,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B5%B7%E6%9E%9D%E6%9E%9D%EF%BC%88%E7%A2%A7%E8%93%9D%E7%8F%8A%E7%91%9A%EF%BC%89"
+  },
+  {
+    "name": "海枝枝（杏黄百合）",
+    "height_min": 0.75,
+    "height_max": 0.85,
+    "weight_min": 3.51,
+    "weight_max": 6.82,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B5%B7%E6%9E%9D%E6%9E%9D%EF%BC%88%E6%9D%8F%E9%BB%84%E7%99%BE%E5%90%88%EF%BC%89"
+  },
+  {
+    "name": "海枝枝（洋红沙丁）",
+    "height_min": 0.75,
+    "height_max": 0.85,
+    "weight_min": 3.51,
+    "weight_max": 6.82,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B5%B7%E6%9E%9D%E6%9E%9D%EF%BC%88%E6%B4%8B%E7%BA%A2%E6%B2%99%E4%B8%81%EF%BC%89"
+  },
+  {
+    "name": "海枝枝（翠绿纶布）",
+    "height_min": 0.75,
+    "height_max": 0.85,
+    "weight_min": 3.51,
+    "weight_max": 6.82,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B5%B7%E6%9E%9D%E6%9E%9D%EF%BC%88%E7%BF%A0%E7%BB%BF%E7%BA%B6%E5%B8%83%EF%BC%89"
+  },
+  {
+    "name": "小电企鹅",
+    "height_min": 0.44,
+    "height_max": 0.56,
+    "weight_min": 3.82,
+    "weight_max": 5.39,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%94%B5%E4%BC%81%E9%B9%85"
+  },
+  {
+    "name": "柴渣虫",
+    "height_min": 0.45,
+    "height_max": 0.55,
+    "weight_min": 14.5,
+    "weight_max": 18.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%9F%B4%E6%B8%A3%E8%99%AB"
+  },
+  {
+    "name": "噼啪鸟",
+    "height_min": 2.0,
+    "height_max": 2.15,
+    "weight_min": 89.5,
+    "weight_max": 127.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%99%BC%E5%95%AA%E9%B8%9F"
+  },
+  {
+    "name": "月牙雪熊",
+    "height_min": 1.25,
+    "height_max": 1.45,
+    "weight_min": 76.5,
+    "weight_max": 92.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%9C%88%E7%89%99%E9%9B%AA%E7%86%8A"
+  },
+  {
+    "name": "布瓜蝌",
+    "height_min": 0.32,
+    "height_max": 0.51,
+    "weight_min": 0.45,
+    "weight_max": 1.65,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B8%83%E7%93%9C%E8%9D%8C"
+  },
+  {
+    "name": "翡翠水母",
+    "height_min": 0.49,
+    "height_max": 0.7,
+    "weight_min": 31.5,
+    "weight_max": 36.8,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%BF%A1%E7%BF%A0%E6%B0%B4%E6%AF%8D"
+  },
+  {
+    "name": "螺旋帕帕",
+    "height_min": 0.35,
+    "height_max": 0.45,
+    "weight_min": 2.08,
+    "weight_max": 4.35,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%9E%BA%E6%97%8B%E5%B8%95%E5%B8%95"
+  },
+  {
+    "name": "吸泥鸥",
+    "height_min": 0.55,
+    "height_max": 0.71,
+    "weight_min": 9.5,
+    "weight_max": 12.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%90%B8%E6%B3%A5%E9%B8%A5"
+  },
+  {
+    "name": "兽花蕾",
+    "height_min": 0.38,
+    "height_max": 0.45,
+    "weight_min": 4.25,
+    "weight_max": 6.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%85%BD%E8%8A%B1%E8%95%BE"
+  },
+  {
+    "name": "公平鸽",
+    "height_min": 0.45,
+    "height_max": 0.6,
+    "weight_min": 2.5,
+    "weight_max": 3.94,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%85%AC%E5%B9%B3%E9%B8%BD"
+  },
+  {
+    "name": "花怨鳗",
+    "height_min": 0.58,
+    "height_max": 0.68,
+    "weight_min": 2.9,
+    "weight_max": 4.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E8%8A%B1%E6%80%A8%E9%B3%97"
+  },
+  {
+    "name": "波波螺",
+    "height_min": 0.32,
+    "height_max": 0.42,
+    "weight_min": 4.85,
+    "weight_max": 5.65,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B3%A2%E6%B3%A2%E8%9E%BA"
+  },
+  {
+    "name": "里拉鳐",
+    "height_min": 0.94,
+    "height_max": 1.1,
+    "weight_min": 38.6,
+    "weight_max": 49.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E9%87%8C%E6%8B%89%E9%B3%90"
+  },
+  {
+    "name": "号儿鱼",
+    "height_min": 0.31,
+    "height_max": 0.42,
+    "weight_min": 3.9,
+    "weight_max": 5.25,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%8F%B7%E5%84%BF%E9%B1%BC"
+  },
+  {
+    "name": "斑斑",
+    "height_min": 0.47,
+    "height_max": 0.6,
+    "weight_min": 4.79,
+    "weight_max": 6.17,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%96%91%E6%96%91"
+  },
+  {
+    "name": "圣剑侍从",
+    "height_min": 0.94,
+    "height_max": 1.18,
+    "weight_min": 115.7,
+    "weight_max": 173.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%9C%A3%E5%89%91%E4%BE%8D%E4%BB%8E"
+  },
+  {
+    "name": "小黑猫",
+    "height_min": 0.55,
+    "height_max": 0.65,
+    "weight_min": 3.1,
+    "weight_max": 4.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E9%BB%91%E7%8C%AB"
+  },
+  {
+    "name": "松仔",
+    "height_min": 0.52,
+    "height_max": 0.68,
+    "weight_min": 6.25,
+    "weight_max": 7.85,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%9D%BE%E4%BB%94"
+  },
+  {
+    "name": "水滴蛇",
+    "height_min": 0.53,
+    "height_max": 0.69,
+    "weight_min": 2.25,
+    "weight_max": 4.1,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%B0%B4%E6%BB%B4%E8%9B%87"
+  },
+  {
+    "name": "小勇狮",
+    "height_min": 0.67,
+    "height_max": 0.81,
+    "weight_min": 8.5,
+    "weight_max": 12.05,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E5%8B%87%E7%8B%AE"
+  },
+  {
+    "name": "毛头小蛛",
+    "height_min": 0.3,
+    "height_max": 0.45,
+    "weight_min": 0.95,
+    "weight_max": 2.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%AF%9B%E5%A4%B4%E5%B0%8F%E8%9B%9B"
+  },
+  {
+    "name": "画精灵",
+    "height_min": 0.28,
+    "height_max": 0.38,
+    "weight_min": 0.99,
+    "weight_max": 2.21,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%94%BB%E7%B2%BE%E7%81%B5"
+  },
+  {
+    "name": "书魔虫",
+    "height_min": 0.3,
+    "height_max": 0.41,
+    "weight_min": 2.28,
+    "weight_max": 3.86,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%B9%A6%E9%AD%94%E8%99%AB"
+  },
+  {
+    "name": "嗜光嗡嗡",
+    "height_min": 0.24,
+    "height_max": 0.32,
+    "weight_min": 1.46,
+    "weight_max": 3.05,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%97%9C%E5%85%89%E5%97%A1%E5%97%A1"
+  },
+  {
+    "name": "小箱怪",
+    "height_min": 0.34,
+    "height_max": 0.46,
+    "weight_min": 4.45,
+    "weight_max": 6.81,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E7%AE%B1%E6%80%AA"
+  },
+  {
+    "name": "优优",
+    "height_min": 0.38,
+    "height_max": 0.56,
+    "weight_min": 3.03,
+    "weight_max": 4.1,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%BC%98%E4%BC%98"
+  },
+  {
+    "name": "墨鱿士",
+    "height_min": 0.35,
+    "height_max": 0.46,
+    "weight_min": 3.25,
+    "weight_max": 5.02,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%A2%A8%E9%B1%BF%E5%A3%AB"
+  },
+  {
+    "name": "幽星光",
+    "height_min": 0.4,
+    "height_max": 0.55,
+    "weight_min": 0.6,
+    "weight_max": 1.65,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E5%B9%BD%E6%98%9F%E5%85%89"
+  },
+  {
+    "name": "春团",
+    "height_min": 0.35,
+    "height_max": 0.51,
+    "weight_min": 2.1,
+    "weight_max": 3.6,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E6%98%A5%E5%9B%A2"
+  },
+  {
+    "name": "火红尾",
+    "height_min": 0.72,
+    "height_max": 0.98,
+    "weight_min": 17.5,
+    "weight_max": 30.5,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E7%81%AB%E7%BA%A2%E5%B0%BE"
+  },
+  {
+    "name": "伊雷龙",
+    "height_min": 0.72,
+    "height_max": 0.94,
+    "weight_min": 27.2,
+    "weight_max": 34.0,
+    "stage": 1,
+    "url": "https://wiki.biligame.com/rocom/%E4%BC%8A%E9%9B%B7%E9%BE%99"
+  }
+]
