@@ -72,14 +72,51 @@ def get_shop_message() -> str:
     return format_shop_message(items)
 
 
+MAX_RETRY = 10
+_retrying = False
+
+
 def push_shop_info():
-    """推送商店信息"""
+    """推送商店信息，失败时启动后台重试"""
+    global _retrying
+
     if not is_merchant_active():
         print("[跳过] 当前无远行商人，不推送")
         return
 
-    text = get_shop_message()
-    bot.send_group_message(GROUP_ID, text)
+    items = fetch_shop_items(SHOP_URL)
+    if items:
+        text = format_shop_message(items)
+        bot.send_group_message(GROUP_ID, text)
+        return
+
+    # 爬取失败，启动后台重试
+    if _retrying:
+        print("[跳过] 已有重试任务进行中")
+        return
+
+    _retrying = True
+    retry_thread = threading.Thread(target=_retry_push, daemon=True)
+    retry_thread.start()
+    print(f"[重试] 远行商人数据获取失败，已启动后台重试（最多{MAX_RETRY}次）")
+
+
+def _retry_push():
+    """后台重试推送商店信息，每分钟重试一次，最多MAX_RETRY次"""
+    global _retrying
+    try:
+        for attempt in range(1, MAX_RETRY + 1):
+            print(f"[重试] 远行商人数据获取失败，{attempt}/{MAX_RETRY} 次重试，60秒后重试...")
+            time.sleep(60)
+            items = fetch_shop_items(SHOP_URL)
+            if items:
+                text = format_shop_message(items)
+                bot.send_group_message(GROUP_ID, text)
+                print(f"[成功] 第 {attempt} 次重试成功")
+                return
+        print(f"[失败] 远行商人数据获取失败，已重试 {MAX_RETRY} 次，放弃推送")
+    finally:
+        _retrying = False
 
 
 def handle_event(data: dict):
